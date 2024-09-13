@@ -35,13 +35,8 @@ Follow these steps to get the project up and running locally:
       ```bash
       source venv/bin/activate
       ```
-
-5. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-6. Start the development server (if applicable):
+      
+5. Start the development server (if applicable):
     ```bash
     python manage.py runserver
     ```
